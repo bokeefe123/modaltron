@@ -24,6 +24,8 @@ image = (
     image=image,
     scaledown_window=300,  # Keep warm for 5 minutes during active games
     region="us-west",
+    cpu=2,
+    memory=1024,
     experimental_options={"input_plane_region": "us-west"}
 )
 @modal.concurrent(max_inputs=100)  # Handle many concurrent WebSocket connections
