@@ -8,3 +8,4 @@ bin/*
 stats/*
 config.json
 *.sublime-*
+*__pycache__*
