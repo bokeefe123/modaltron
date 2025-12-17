@@ -10,3 +10,4 @@ config.json
 *.sublime-*
 *__pycache__*
 *venv/*
+venv/*
