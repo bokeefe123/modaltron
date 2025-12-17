@@ -29,7 +29,7 @@ Navigate to the link returned from Modal
 
 __Configure region__
 
-Open modal_app.py
+Open `modal_app.py`
 
 Change the deploy region options to preferred region.
 
