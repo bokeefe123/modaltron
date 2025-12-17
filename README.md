@@ -6,6 +6,7 @@ A web multiplayer Tron game like with curves
 ## Installation
 
 * [Get your local Curvytron server in 1 minute!](doc/installation.md)
+* [Get your own Modal Curvytron server!](doc/modal.md)
 
 ---
 
